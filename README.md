@@ -1,6 +1,15 @@
 # CyTOF-predictor
 ### XGBoost based CyTOF cell population predictor
-  
+For execution of prediction scripts, model weights are nacessary. Download model weights from: ... and put it into models directory into directory with prediction.py script. 
+
+Expected files locations
+```
+classifier/
+├── models/
+│   └── <model_weights>
+└── prediction.py
+```
+
 #### Windows install and default execution:
 ```
 cd C:\location_of_classifier_directory
