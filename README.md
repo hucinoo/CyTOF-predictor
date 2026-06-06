@@ -1,6 +1,6 @@
 # CyTOF-predictor
 ### XGBoost based CyTOF cell population predictor
-For execution of prediction scripts, model weights are nacessary. Download model weights from: ... and put it into models directory into directory with prediction.py script. 
+For execution of prediction scripts, model weights are necessary. Download model weights from: ... and put it into models directory into directory with prediction.py script. 
 
 Expected files locations
 ```
@@ -30,7 +30,7 @@ source venv/bin/activate
 python -m pip install --upgrade pip
 pip install numpy pandas xgboost scikit-learn openpyxl
 python -c "import numpy, pandas, xgboost, sklearn, openpyxl; print('OK')"
-python predict.py --model_type full --input ~/Desdata.csv --input_format csv --output predictions.csv
+python predict.py --model_type full --input input.csv --input_format csv --output predictions.csv
 deactivate
 ```
 
