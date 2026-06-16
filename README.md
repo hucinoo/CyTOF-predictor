@@ -49,3 +49,6 @@ python predict.py \
   --keep_input_columns  # keep all original input columns in output, results in large file and slower output.
   --keep_first_n_columns n_columns, keep selected columns as a metadata.
 ```
+## License
+
+MIT License. See the LICENSE file for details.
