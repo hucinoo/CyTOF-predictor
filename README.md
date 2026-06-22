@@ -13,6 +13,7 @@ Model weights specific for MoMyB CyTOF panel can be downloaded from:
 http://www.embnet.sk/project/cytof/
 
 Isotopes used in panel:
+Nd145Di, Dy164Di, Er167Di, Gd155Di, Yb174Di, Er168Di Cd116Di, Dy163Di, Lu175Di, Yb173Di, Nd148Di, Nd150Di, Sm149Di, Cd112Di, Cd111Di, Gd160Di, Nd142Di, Cd114Di, Yb171Di, Gd156Di, Yb176Di, Cd113Di, Dy162Di, Sm147Di, Dy161Di, Er166Di, Nd146Di, Ho165Di, Gd158Di, Nd144Di, Tb159Di, Y89Di, Tm169Di, Nd143Di, Sm152Di, Pr141Di, Eu151Di, Er170Di, Eu153Di, Yb172Di, Sm154Di
 #### Windows install and default execution:
 ```
 cd C:\location_of_classifier_directory
