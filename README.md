@@ -9,7 +9,8 @@ classifier/
 │   └── <model_weights>
 └── prediction.py
 ```
-Model weights specific for MoMyB CyTOF panel can be found on: 
+Model weights specific for MoMyB CyTOF panel can be downloaded from: 
+http://www.embnet.sk/project/cytof/
 
 Isotopes used in panel:
 #### Windows install and default execution:
