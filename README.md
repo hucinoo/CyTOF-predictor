@@ -1,6 +1,5 @@
 # CyTOF-predictor
 ### XGBoost based CyTOF cell population predictor
-For execution of prediction scripts, model weights are necessary. Download model weights from: ... and put it into models directory into directory with prediction.py script. 
 
 Expected files locations
 ```
@@ -9,6 +8,8 @@ classifier/
 │   └── <model_weights>
 └── prediction.py
 ```
+
+For execution of prediction scripts, model weights are necessary.
 Model weights specific for MoMyB CyTOF panel can be downloaded from: 
 http://www.embnet.sk/project/cytof/
 
